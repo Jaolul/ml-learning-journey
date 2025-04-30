@@ -82,6 +82,3 @@ LinkedIn: linkedin.com/in/jaodesignz
 
 ⭐️ Feel free to fork this repo and start your own ML journey!
 
-yaml
-Copy code
-└── README.md
