@@ -47,4 +47,41 @@ ml-learning-journey/
 │   ├── ml_project.ipynb
 │   └── README.md (project overview)
 │
+🛠️ Tools & Libraries Used
+Python 3.x
+
+NumPy
+
+pandas
+
+matplotlib, seaborn
+
+scikit-learn
+
+Jupyter Notebook
+
+📊 Final Project Highlight
+Project: [Your Project Title Here]
+Goal: Predict/Analyze [brief problem description]
+Dataset: [name/link of dataset]
+Results: [mention accuracy, visuals, insights, etc.]
+
+🚀 What's Next?
+Learn more about deep learning (TensorFlow/PyTorch)
+
+Explore real-world datasets on Kaggle
+
+Build more projects and improve model evaluation skills
+
+📬 Contact Me
+Name: Joshua Malasa
+
+Email: joshuamalasa8@gmail.com
+
+LinkedIn: linkedin.com/in/jaodesignz
+
+⭐️ Feel free to fork this repo and start your own ML journey!
+
+yaml
+Copy code
 └── README.md
